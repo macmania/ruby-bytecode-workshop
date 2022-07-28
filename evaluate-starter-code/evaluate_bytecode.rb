@@ -28,5 +28,3 @@ iseq = if options.file_path
 
 execute = Execute.new(iseq)
 execute.evaluate
-/Users/macmania/workspace/ruby-bytecode-workshop/evaluate-starter-code/evaluate_bytecode.rb
-/Users/macmania/workspace/ruby-bytecode-workshop/evaluate-starter-code/evaluate_bytecode.rb
